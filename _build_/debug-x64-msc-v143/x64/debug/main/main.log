@@ -1,0 +1,11 @@
+﻿  main.cpp
+  ObjModel.cpp
+  renderer.cpp
+  texture.cpp
+C:\Users\PC\Desktop\opengl\OpenGLScene(W691)(5)\main\ObjModel.cpp(100,53): warning C4267: “参数”: 从“size_t”转换到“GLsizei”，可能丢失数据
+C:\Users\PC\Desktop\opengl\OpenGLScene(W691)(5)\third_party\learnopengl\model.h(215,78): warning C4100: “gamma”: 未引用的形参 (编译源文件 renderer.cpp)
+C:\Users\PC\Desktop\opengl\OpenGLScene(W691)(5)\third_party\learnopengl\model.h(215,78): warning C4100: “gamma”: 未引用的形参 (编译源文件 main.cpp)
+C:\Users\PC\Desktop\opengl\OpenGLScene(W691)(5)\main\renderer.cpp(73,77): warning C4100: “mods”: 未引用的形参
+C:\Users\PC\Desktop\opengl\OpenGLScene(W691)(5)\third_party\learnopengl\shader.h(91): warning C4701: 使用了可能未初始化的局部变量“geometry”
+C:\Users\PC\Desktop\opengl\OpenGLScene(W691)(5)\third_party\learnopengl\model.h(241): warning C4701: 使用了可能未初始化的局部变量“format”
+  main.vcxproj -> C:\Users\PC\Desktop\opengl\OpenGLScene(W691)(5)\bin\main-debug-x64-msc-v143.exe
